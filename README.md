@@ -1,1 +1,2 @@
-
+#News-App
+This project is a **News App** built using **HTML**, **CSS**, **JavaScript**, and **React**. It features a responsive design with Bootstrap, allowing users to view news articles in a clean and user-friendly interface. The app uses React components to dynamically display content, such as a navigation bar and a news section, which can be easily extended to fetch real-time news data from APIs. This setup provides a solid foundation for creating a modern, interactive news website.
